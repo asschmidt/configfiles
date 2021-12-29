@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.renderIndentGuides": false,
+    "files.associations": {
+        "*.asm": "asm-intel-x86-generic",
+        "*.s": "gas"
+    },
+    "cmake.configureOnOpen": false,
+    "platformio-ide.autoPreloadEnvTasks": true,
+    "editor.detectIndentation": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "terminal.integrated.inheritEnv": false,
+    "doxdocgen.generic.authorName": "Andreas Schmidt",
+    "doxdocgen.generic.authorEmail": "a.v.schmidt81@gmail.com"
+}
